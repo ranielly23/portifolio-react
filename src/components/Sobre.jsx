@@ -6,7 +6,6 @@ const badges = [
   '💜 Amante de UI/UX',
   '🌸 Front-end',
   '✨ Criativa',
-  '☕ Dev de café',
 ]
 
 const stats = [
@@ -32,10 +31,6 @@ export default function Sobre() {
           <p>
             Gosto de unir <strong>criatividade</strong> com <strong>boas práticas de código</strong>
             para criar projetos que encantam quem usa. Cada detalhe importa!
-          </p>
-          <p>
-            Quando não estou codando, estou explorando novos designs, aprendendo algo novo
-            ou tomando um café ☕.
           </p>
 
           <div className="about-badges">
