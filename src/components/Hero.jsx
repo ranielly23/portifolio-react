@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section id="hero">
       <div className="hero-text">
-        <div className="hero-tag">Bem-vinda ao meu portfólio ✨</div>
+        <div className="hero-tag">Bem-vinda(o) ao meu portfólio ✨</div>
         <h1>
           Olá, sou <em>Francisca</em>
           <br />
