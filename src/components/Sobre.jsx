@@ -29,7 +29,7 @@ export default function Sobre() {
             Web apaixonada por transformar ideias em experiências digitais bonitas e funcionais.
           </p>
           <p>
-            Gosto de unir <strong>criatividade</strong> com <strong>boas práticas de código</strong>
+            Gosto de unir <strong>criatividade</strong> com <strong>boas práticas de código </strong>
             para criar projetos que encantam quem usa. Cada detalhe importa!
           </p>
 
